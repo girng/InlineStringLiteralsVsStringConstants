@@ -7,4 +7,6 @@ Performance benchmark to check inline string literals compared to CONST strings.
  
 ### Contributing
 
-If you can make this benchmark better, please create a PR / issue! Thanks and have a great day.
+If you can make this benchmark better, please create a PR / issue!
+
+Thank you and have a wonderful day!
