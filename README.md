@@ -12,7 +12,7 @@ Performance benchmark to check inline string literals compared to CONST strings.
  
 ### Current Results (without exceptions)
  - ![](https://i.gyazo.com/8794ca70035411295d6b0e22d2db65c4.png)
- - Main takeway: Wow, no bytes per operation O_o
+ - Main takeaway: Wow, no bytes per operation O_o
  
  
 ### Contributing
